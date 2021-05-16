@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.barra-transparente{
+    background: none;
+    position: absolute;
+    z-index: 2;
+}
+
+
+span img{
+    height: 30px;
+}
+
+hr{
+    background-color: #00C0FF;
+}
+
+.borde-seccion{
+    border-top: 2px #00c0ff solid;
+}
+
+.div-icono{
+    height: 30px;
+}
