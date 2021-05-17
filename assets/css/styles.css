@@ -29,9 +29,14 @@ hr{
 }
 
 i{
-    font-size: 18pt;
+    font-size: 20pt;
+}
+
+footer i{
+    font-size: 25pt;
+    color: white;
 }
 
 .card-img-height{
-    height: 140px;
+    height: 10em;
 }
