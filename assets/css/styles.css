@@ -1,6 +1,8 @@
 body{
     background-color: black;
     color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
 }
 
 .barra-transparente{
@@ -28,4 +30,8 @@ hr{
 
 i{
     font-size: 18pt;
+}
+
+.card-img-height{
+    height: 140px;
 }
